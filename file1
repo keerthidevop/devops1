@@ -2,6 +2,6 @@ class hello()  #from dev1
 {
 	public static void main()  #from dev1
 	{
-	system.ouy.printiIn("hello modf dev1")
+	system.ouy.printiIn("hello 2 modf dev1")
 	}
 	}
